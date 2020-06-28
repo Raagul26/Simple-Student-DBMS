@@ -1,0 +1,2 @@
+mysql-connector-python==8.0.20
+tkcalendar==1.6.1
